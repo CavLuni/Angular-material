@@ -109,6 +109,26 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Sombra e Ossos ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNTNhY2JlMmItMGMzZi00ZTM2LTlmNTItZDBkMGVhNGJhYWRhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY268_CR16,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-05-02T03:00:00.000Z",
+      "descricao": "Dark forces conspire against orphan mapmaker Alina Starkov when she unleashes an extraordinary power that could change the fate of her war-torn world.",
+      "nota": 7.9,
+      "urlIMDb": "https://www.imdb.com/title/tt2403776/?ref_=hm_fanfav_tt_i_4_pd_fp1",
+      "genero": "Ação",
+      "id": 12
+    },
+    {
+      "titulo": "Sem Remorso ",
+      "urlFoto": "https://m.media-amazon.com/images/M/MV5BNzcwYTUxYzctYTQ5My00YzY5LTk3YzItOTliMzRiOTZlMGI3XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "dtLancamento": "2021-05-02T03:00:00.000Z",
+      "descricao": "John Clark, a Navy SEAL, goes on a path to avenge his wife's murder only to find himself inside of a larger conspiracy.",
+      "nota": 5.8,
+      "urlIMDb": "https://www.imdb.com/title/tt0499097/?ref_=hm_stp_pvs_piv_tt_i_1",
+      "genero": "Ação",
+      "id": 13
     }
   ]
 }

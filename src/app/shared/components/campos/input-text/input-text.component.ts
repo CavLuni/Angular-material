@@ -13,7 +13,9 @@ export class InputTextComponent {
   @Input() formGroup: FormGroup;
   @Input() controlName: string;
 
-  constructor(public validacao: ValidarCamposService) { }
+  constructor(public validacao: ValidarCamposService) { 
+    
+  }
 
   get formControl(): AbstractControl {
     return this.formGroup.controls[this.controlName];
